@@ -75,8 +75,10 @@ computing power issue로 인해서 batch_size를 5로 고정하여 학습한 결
 pdf자료는 2019년 슈퍼챌린지 해커톤에서 발표한 자료입니다.
 
 - 팀명 : 몽키스패너
-- 팀원 : 류원탁, 구본우, 이재혁, 어유선, 
-
+- 딥러닝 개발 : 류원탁
+- 기획 및 발표 : 구본우
+- 서버 개발 : 어유선
+- IOT 개발 : 이재혁, 
 
 ### reference 
 https://github.com/EdjeElectronics/TensorFlow-Object-Detection-API-Tutorial-Train-Multiple-Objects-Windows-10
