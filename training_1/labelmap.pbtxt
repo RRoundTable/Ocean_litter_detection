@@ -1,0 +1,15 @@
+item {
+  id: 1
+  name: 'litter'
+}
+
+item {
+  id: 2
+  name: 'fish'
+}
+
+item {
+  id: 3
+  name: 'human'
+}
+
