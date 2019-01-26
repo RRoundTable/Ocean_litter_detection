@@ -58,6 +58,18 @@ computing power issue로 인해서 batch_size를 5로 고정하여 학습한 결
 
 ### pdf 자료 
 
+- 시연영상
+
+![시연](.image/시연영상.gif)
+
+- 실제환경에서 실험
+
+![시연](.image/인경호 영상.gif)
+
+- 기대효과
+
+![기대효과](.image/기대효과.gif)
+
 자세한 사항을 확인하고 싶다면 [pdf자료](https://github.com/RRoundTable/ocean_litter_detection/blob/master/pdf.pdf)를 확인해주세요.
 
 
