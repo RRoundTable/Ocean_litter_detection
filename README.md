@@ -72,6 +72,11 @@ computing power issue로 인해서 batch_size를 5로 고정하여 학습한 결
 
 자세한 사항을 확인하고 싶다면 [pdf자료](https://github.com/RRoundTable/ocean_litter_detection/blob/master/pdf.pdf)를 확인해주세요.
 
+pdf자료는 2019년 슈퍼챌린지 해커톤에서 발표한 자료입니다.
+
+- 팀명 : 몽키스패너
+- 팀원 : 류원탁, 구본우, 이재혁, 어유선, 
+
 
 ### reference 
 https://github.com/EdjeElectronics/TensorFlow-Object-Detection-API-Tutorial-Train-Multiple-Objects-Windows-10
