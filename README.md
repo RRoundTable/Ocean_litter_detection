@@ -78,7 +78,7 @@ pdf자료는 2019년 슈퍼챌린지 해커톤에서 발표한 자료입니다.
 - 딥러닝 개발 : 류원탁
 - 기획 및 발표 : 구본우
 - 서버 개발 : 어유선
-- IOT 개발 : 이재혁, 
+- IOT 개발 : 이재혁, 조성원
 
 ### reference 
 https://github.com/EdjeElectronics/TensorFlow-Object-Detection-API-Tutorial-Train-Multiple-Objects-Windows-10
