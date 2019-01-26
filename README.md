@@ -64,7 +64,7 @@ computing power issue로 인해서 batch_size를 5로 고정하여 학습한 결
 
 - 실제환경에서 실험
 
-![시연](./image/인경호영상.gif)
+![인하대 ](./image/인경호영상.gif)
 
 - 기대효과
 
